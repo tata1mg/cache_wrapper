@@ -1,0 +1,5 @@
+aioredis~=2.0
+ujson~=5.4
+fakeredis~=2.0
+aiounittest~=1.4
+coverage~=6.3
