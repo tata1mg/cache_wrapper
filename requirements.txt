@@ -1,5 +1,5 @@
 aioredis==2.0.1
-ujson==4.1.0
+ujson~=5.4
 fakeredis==2.0.0
 aiounittest==1.4.1
 coverage==6.3.2
